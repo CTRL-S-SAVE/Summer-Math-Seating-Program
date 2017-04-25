@@ -15,7 +15,7 @@ public class SheetReader {
 
 	@SuppressWarnings({ "deprecation" })
 	public static void main(String[] args)  {
-		File myFile = new File("File Path");
+	File myFile = new File("File Path");
         FileInputStream fis = null;
 		try {
 			fis = new FileInputStream(myFile);
