@@ -15,3 +15,5 @@ Changelog:
 * The program doesn't separate students from different sessions and sorts them randomly, as opposed to using an algorithm to sort them by the client's criteria.
 * The program doesn't save the sorted students into a file.
 * Some internal changes made to static items.
+
+5/23: Beta Version 4. Added a class to write results to an Excel file. Skeletal algorithm for sorting added.
