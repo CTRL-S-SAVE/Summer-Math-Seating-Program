@@ -1,5 +1,5 @@
 # Summer-Math-Seating-Program
-A seating chart program for Poolesville High School's summer math session. Developers should refere to the latest stable build.
+A seating chart program for Poolesville High School's summer math session. Developers should refer to the latest stable build.
 
 Changelog:
 
@@ -17,3 +17,13 @@ Changelog:
 * Some internal changes made to static items.
 
 5/23: Beta Version 4. Added a class to write results to an Excel file. Skeletal algorithm for sorting added.
+
+6/4: Beta Version 5. Many changes implemented:
+
+* Adjusted interface labels and error messages.
+* Added a table to display the groups and buttons to view days. User can sort and drag the columns before saving to Excel, which will be reflected in the saved file.
+* Sorting occurs on all five days. Attempts to follow the Clemente limit rule. Does not follow student exclusion or minimum females rules.
+
+6/6: Complete Version 1 will be available on this day. The program will be usuable at this point.
+
+6/12: Complete Version 2 will be available on or before this day. This will be an ironed-out version of Complete Version 1 and will be presented to the client as the final product.
